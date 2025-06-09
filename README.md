@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 "game" and web developer,
-lua
-javascript/typescript
+lua,
+javascript/typescript,
 python
 
 learning
-c++
+c++,
 java
 
 (html/css)
