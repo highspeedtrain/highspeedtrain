@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-"game" developer,
+"game" and web developer,
 lua
 javascript/typescript
 python
