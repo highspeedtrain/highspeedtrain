@@ -9,4 +9,4 @@ learning
 c++,
 java
 
-(html/css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=highspeedtrain&layout=compact)
